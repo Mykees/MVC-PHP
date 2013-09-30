@@ -1,0 +1,1 @@
+<h1>Error Page <small><?= $message; ?></small></h1>
